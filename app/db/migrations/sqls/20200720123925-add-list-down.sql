@@ -1,0 +1,2 @@
+DROP TABLE list;
+DROP TABLE items;

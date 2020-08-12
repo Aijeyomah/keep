@@ -1,0 +1,1 @@
+ALTER TABLE items ADD COLUMN is_notified BOOLEAN DEFAULT false NOT NULL;
