@@ -57,7 +57,7 @@
     "eslint": "^7.4.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "expect": "^26.2.0",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "supertest": "^4.0.2"
   }
 }
